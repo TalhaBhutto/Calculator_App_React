@@ -26,9 +26,6 @@ function Calc(){
           <Operators val="="/>
           <Operators val="-"/>
         </div>
-        <div className="Operators">
-
-        </div>
       </div>
     </div>
     );
