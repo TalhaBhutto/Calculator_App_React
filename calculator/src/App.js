@@ -1,10 +1,9 @@
 import './App.css';
+import Calc from "./calc";
 
 function App() {
   return (
-    <div>
-      
-    </div>
+    <Calc/>
   );
 }
 
