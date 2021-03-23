@@ -5,7 +5,7 @@ function Calc(){
     return(
         <div className="Calc">
       <div className="Screen">
-        <input type="text"></input>
+        <input type="text" id="myscreen"></input>
       </div>
       <div className="buttons">
         <div className="NumPad">
